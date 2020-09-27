@@ -3,10 +3,12 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <h1>Pahser3</h1>
+      <h1 className="title">Pahser3-React</h1>
       <style jsx> 
         {
           `
+          .title{
+          }
           `
         }
       </style>
